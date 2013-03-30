@@ -7,17 +7,17 @@ Fonctionnalités
 ---------------
    * Chaque joueur peut être controllé par un humain ou par l'ordinateur.
    * Les deux equipes peuvent être composés de plusieurs joueurs (pas de limite).
-   * Un joueur peut demander l'aide de l'ordinateur et voir la trajectoire 
-   du meilleurs coup. (touche: h)
+   * Un joueur peut demander l'aide de l'ordinateur et voir la trajectoire
+   du meilleur coup. (touche: h)
    * Menu d'options.
 
 Screenshot
 ----
-![screenshot}()
+![screenshot}(https://raw.github.com/4bcxyz/blackBall/master/screenshot.png)
 
 Pour jouer
 ---
-Il suffit juste de téléchargé blackBall.jar, et de double cliqué sur le fichier.
+Il suffit juste de télécharger blackBall.jar, et de double cliquer sur le fichier.
 Ou dans un shell :
 ```bash
 java -jar blackBall.jar
