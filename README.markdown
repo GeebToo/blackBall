@@ -13,7 +13,7 @@ Fonctionnalités
 
 Screenshot
 ----
-![screenshot}(https://raw.github.com/4bcxyz/blackBall/master/screenshot.png)
+![screenshot](https://raw.github.com/4bcxyz/blackBall/master/screenshot.png)
 
 Pour jouer
 ---
