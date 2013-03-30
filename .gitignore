@@ -4,3 +4,9 @@
 *.jar
 *.war
 *.ear
+
+# cscope et ctags file
+cscope*
+tags
+
+blackBall.save
